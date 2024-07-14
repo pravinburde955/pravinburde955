@@ -1,4 +1,4 @@
-. <h2>👋 Hi, I’m Pravin Burde</h2><br>
+ <h2>👋 Hi, I’m Pravin Burde</h2><br>
 . 👨‍💻 I’m a passionate FullStack Developer/Software Developer<br>
 . 🌱 I’m currently learning FullStack Development <br>
 . 📫 How to reach me prem123burde@gmail.com <br>
