@@ -30,9 +30,9 @@ LinkedIn Gmail Instagram
 
 <h3 align="left">🗄️ Databases:</h3>
 <div align="left">
-  <img alt="Oracle" src ="https://www.svgrepo.com/show/355152/oracle.svg/>
+  <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%2307405e.svg?style=for-the-badge&logo=oracle&logoColor=white%22"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="Sql-Server" src ="https://img.shields.io/badge/Sql-Server-%2307405e.svg?style=for-the-badge&logo=sql-server&logoColor=white"/>
 </div><br/>
 
 <h3 align="left">📊 GitHub Activity:</h3>
