@@ -1,6 +1,6 @@
  <h1>👋 Hi, I’m Pravin Burde</h1><br>
 . 👨‍💻 I’m a passionate Dot Net Developer/Software Developer<br>
-<div align="right"> <img alt="pravinburde955" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0m5PnkLeG8txAfWsjyLK2m&ust=1733823433183000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDH2quzmooDFQAAAAAdAAAAABAE">
+<div align="right"> <img alt="pravinburde955" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0m5PnkLeG8txAfWsjyLK2m&ust=1733823433183000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDH2quzmooDFQAAAAAdAAAAABAE"></div>
 . 📫 How to reach me:  <a href="mailto:pravinburdework@gmail.com"> pravinburdework@gmail.com </a><br>
 .🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the portfolio! 💻❤️ <br>
 📲 Connect with me: <br>
