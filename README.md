@@ -18,11 +18,26 @@ LinkedIn Gmail Instagram
 
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
- <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins">
- <img alt="Python" src="https://skillicons.dev/icons?i=python">
  <img alt="HTML5" src="https://skillicons.dev/icons?i=html">
   <img alt="CSS3" src="https://skillicons.dev/icons?i=css">
   <img alt="C" src="https://skillicons.dev/icons?i=c">
+ <img alt="Python" src="https://skillicons.dev/icons?i=python">
+  <img alt="Azure" src="https://skillicons.dev/icons?i=azure"> 
+ <img alt="Git" src="https://skillicons.dev/icons?i=git"> 
+ <img alt="Github" src="https://skillicons.dev/icons?i=github"> 
+ <img alt="MySql" src="https://skillicons.dev/icons?i=mysql"> 
+ <img alt="Linux" src="https://skillicons.dev/icons?i=linux"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python"> 
+ <img alt="Python" src="https://skillicons.dev/icons?i=python">
+ <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins">
 <!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>  -->
 
 </div>
