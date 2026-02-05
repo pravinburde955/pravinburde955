@@ -25,7 +25,11 @@ LinkedIn Gmail Instagram
  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
  <img alt="Python" src="https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=ffdd54"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins">
+ <img alt="Python" src="https://skillicons.dev/icons?i=python">
+ <img alt="HTML5" src="https://skillicons.dev/icons?i=html">
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=css">
 <!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>  -->
 
 </div>
